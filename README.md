@@ -57,9 +57,10 @@
 - `R`: Reset Board
 - `+/-`: Adjust Speed
 
-[![📸 Screenshot Placeholder](https://github.com/Rahul0Developer/fake/blob/main/Screenshot%202026-01-16%20145412.png)]
-[https://github.com/Rahul0Developer/fake/blob/main/Screenshot%202026-01-16%20145420.png]
-[<video controls src="https://github.com/Rahul0Developer/fake/blob/main/suduko%20solver.mp4" title="🎥 Demo Video Placeholder"></video>]
+![Sudoku Solver Interface](assets/screenshot_1.png)
+![Sudoku Solver in Action](assets/screenshot_2.png)
+
+<video controls src="assets/demo_video.mp4" title="Demo Video"></video>
 
 ## 6. Time & Space Complexity
 
@@ -117,8 +118,8 @@
 
 ## 11. Demo & Media
 
-📽️ Demo Video: [Add link here]
-🖼️ Screenshots: [Add images here]
+📽️ Demo Video: [Watch Video](assets/demo_video.mp4)
+🖼️ Screenshots: See above in Section 5.
 
 ## 12. Tech Stack
 
@@ -129,7 +130,7 @@
 
 ## 13. Author
 
-- **Name**: [Placeholder]
-- **GitHub**: [Placeholder]
+- **Name**: Rahul
+- **GitHub**: [Rahul0Developer](https://github.com/Rahul0Developer)
 - **LinkedIn**: [Placeholder]
 - **Email**: [Placeholder]
